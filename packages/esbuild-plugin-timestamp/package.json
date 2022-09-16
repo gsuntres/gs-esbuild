@@ -11,5 +11,8 @@
     ],
     "license": "MIT",
     "author": "George Suntres <gsuntres@gmail.com> (https://github.com/gsuntres)",
-    "main": "index.mjs"
+    "main": "index.mjs",
+    "publishConfig": {
+        "access": "public"
+    }
 }
