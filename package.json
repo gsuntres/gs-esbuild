@@ -1,0 +1,25 @@
+{
+    "name": "root",
+    "license": "MIT",
+    "description": "ESBuild plugins.",
+    "keywords": [
+      "esbuild",
+      "ESBuild",
+      "timestamp",
+      "plugin",
+      "build"
+    ],
+    "author": "George Suntres <gsuntres@gmail.com> (https://github.com/gsuntres)",
+    "main": "dist/src/index.js",
+    "typings": "dist/src/index.d.ts",
+    "publishConfig": {
+      "main": "src/index.js",
+      "typings": "src/index.d.ts"
+    },
+    "peerDependencies": {
+      "esbuild": "^0.15.7"
+    },
+    "workspaces": [
+      "packages/**"
+    ]
+  }

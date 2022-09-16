@@ -1,0 +1,15 @@
+{
+    "name": "@gs-esbuild/esbuild-plugin-timestamp",
+    "version": "0.0.1",
+    "description": "Know exactly when a build happened.",
+    "keywords": [
+        "esbuild",
+        "ESBuild",
+        "build",
+        "plugin",
+        "timestamp"
+    ],
+    "license": "MIT",
+    "author": "George Suntres <gsuntres@gmail.com> (https://github.com/gsuntres)",
+    "main": "index.mjs"
+}
