@@ -1,7 +1,8 @@
 {
     "name": "root",
     "license": "MIT",
-    "description": "ESBuild plugins.",
+    "description": "ESBuild plugins",
+    "private": true,
     "keywords": [
       "esbuild",
       "ESBuild",
